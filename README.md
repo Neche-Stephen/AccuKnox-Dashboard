@@ -57,7 +57,7 @@ Before you begin, ensure you have the following installed:
 
 ### Running the Application
     npm run dev
-    After it runs visit: http://localhost:5173
+    After it runs, visit: http://localhost:5173 in your browser at
 
 ## Project Structure
 ```bash
