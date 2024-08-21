@@ -60,6 +60,7 @@ Before you begin, ensure you have the following installed:
     After it runs visit: http://localhost:5173
 
 ## Project Structure
+```bash
 ├── public/                       # Static assets
 ├── src/                          # Main source code
 │   ├── components/
@@ -79,7 +80,6 @@ Before you begin, ensure you have the following installed:
 ├── README.md                     # Project documentation
 └── .gitignore                    # Files to ignore in git
 └── ...                           # Additional configurations
-
-
+```
 
 
