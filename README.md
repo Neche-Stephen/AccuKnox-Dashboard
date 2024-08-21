@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed:
 ### Installation
 
 #### Option 1: Extract the Zipped Folder
-    Extract the folder from the zipped file.
+    Extract the folder from the zipped file [here](https://drive.google.com/file/d/1YwlhQcP2gXZqE2qD_WPLbBdaFwnnlqHo/view?usp=sharing)
     cd path-to-extracted-folder/AccuKnox-Dashboard
     npm install
 
