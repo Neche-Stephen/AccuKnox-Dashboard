@@ -49,9 +49,11 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the Repository**
 
+   ```bash
    git clone https://github.com/Neche-Stephen/AccuKnox-Dashboard.git
-   cd AccuKnox-Dashboard
-   npm install 
+    cd AccuKnox-Dashboard
+    npm install 
+    ```
 
 ### Running the Application
     npm run dev
