@@ -24,7 +24,7 @@ It is built with React, Redux, and Tailwind CSS.
 - **React**: A JavaScript library for building user interfaces.
 - **Redux**: A state management tool for managing and centralizing application state.
 - **Tailwind CSS**: A utility-first CSS framework for styling the application.
-- **JavaScript (ES6+)**: For all dynamic behaviors and logic.
+- **JavaScript**: For all dynamic behaviors and logic.
 
 ## Getting Started
 
@@ -57,7 +57,7 @@ Before you begin, ensure you have the following installed:
 
 ### Running the Application
     npm run dev
-    After it runs, visit: http://localhost:5173 in your browser at
+    After it runs, visit: http://localhost:5173 in your browser
 
 ## Project Structure
 ```bash
